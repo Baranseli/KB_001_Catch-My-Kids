@@ -12,6 +12,9 @@
 		0750DD1721A41E2A008B7E7C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0750DD1521A41E2A008B7E7C /* Main.storyboard */; };
 		0750DD1921A41E2C008B7E7C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0750DD1821A41E2C008B7E7C /* Assets.xcassets */; };
 		0750DD1C21A41E2C008B7E7C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0750DD1A21A41E2C008B7E7C /* LaunchScreen.storyboard */; };
+		0750DD2621A42386008B7E7C /* kid1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0750DD2321A42385008B7E7C /* kid1.jpg */; };
+		0750DD2721A42386008B7E7C /* kid2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0750DD2421A42385008B7E7C /* kid2.jpg */; };
+		0750DD2821A42386008B7E7C /* kid3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0750DD2521A42386008B7E7C /* kid3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		0750DD1821A41E2C008B7E7C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0750DD1B21A41E2C008B7E7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0750DD1D21A41E2C008B7E7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0750DD2321A42385008B7E7C /* kid1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kid1.jpg; sourceTree = "<group>"; };
+		0750DD2421A42385008B7E7C /* kid2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kid2.jpg; sourceTree = "<group>"; };
+		0750DD2521A42386008B7E7C /* kid3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kid3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +60,9 @@
 		0750DD1021A41E2A008B7E7C /* Catch My Kids */ = {
 			isa = PBXGroup;
 			children = (
+				0750DD2321A42385008B7E7C /* kid1.jpg */,
+				0750DD2421A42385008B7E7C /* kid2.jpg */,
+				0750DD2521A42386008B7E7C /* kid3.jpg */,
 				0750DD1121A41E2A008B7E7C /* AppDelegate.swift */,
 				0750DD1321A41E2A008B7E7C /* ViewController.swift */,
 				0750DD1521A41E2A008B7E7C /* Main.storyboard */,
@@ -122,8 +131,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0750DD2621A42386008B7E7C /* kid1.jpg in Resources */,
+				0750DD2721A42386008B7E7C /* kid2.jpg in Resources */,
 				0750DD1C21A41E2C008B7E7C /* LaunchScreen.storyboard in Resources */,
 				0750DD1921A41E2C008B7E7C /* Assets.xcassets in Resources */,
+				0750DD2821A42386008B7E7C /* kid3.jpg in Resources */,
 				0750DD1721A41E2A008B7E7C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
